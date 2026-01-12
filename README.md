@@ -1,2 +1,6 @@
 # Calculador de Caracteres
-Simple calculadore de caracteres hecha con Python. Interactiva con el usuario, recibiendo input directamente del teclado del mismo.
+Para usar la calculadora, se debe ingresar el texto del que queremos saber los carcteres, tal como nos indica el programa.
+
+
+
+
